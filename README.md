@@ -13,7 +13,7 @@ This technical documentation covers the entire development of the Shutter Pi pro
 | Episode | Content Description | Status | Watch Link |
 | :--- | :--- | :--- | :--- |
 | **🎥 Part 1** | Build Your Own Raspberry Pi Camera! First Look | 🚀 Premiering Today | [Watch on YouTube](https://youtu.be/JyURotfIj40) |
-| **🔧 Part 2** | Raspberry Pi Camera Build – Hardware Assembly | ⏳ Coming Soon | [Watch on YouTube](https://youtube.com) |
+| **🔧 Part 2** | Raspberry Pi Camera Build – Hardware Assembly | ⏳ Coming Soon | [Watch on YouTube](https://youtu.be/k4GlcQvQQ58) |
 | **💻 Part 3** | Raspberry Pi Camera – App Setup & Field test | ⏳ Coming Soon | [Watch on YouTube](https://youtube.com) |
 
 ---
