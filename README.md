@@ -6,15 +6,12 @@
 * **Platform:** Raspberry Pi 4 Model B (8GB RAM)
 
 ---
-
-## 📺 YouTube Video Series (Step-by-Step Build)
-This technical documentation covers the entire development of the Shutter Pi project. You can watch the full build and engineering journey on YouTube:
-
 ## 📺 Shutter Pi — Video Series & Tutorials
 
 ### 🎥 Part 1: Build Your Own Raspberry Pi Camera! First Look
 [![Part 1](https://img.youtube.com/vi/DRP7rBsVmwo/0.jpg)](https://youtu.be/DRP7rBsVmwo)
 *Status: 🚀 Live | [Watch on YouTube](https://youtu.be/DRP7rBsVmwo)*
+
 ---
 
 ### 🔧 Part 2: Raspberry Pi Camera Build – Hardware Assembly
@@ -26,8 +23,6 @@ This technical documentation covers the entire development of the Shutter Pi pro
 ### 💻 Part 3: Raspberry Pi Camera – App Setup & Field test
 [![Part 3](https://img.youtube.com/vi/tunqVkdez6I/0.jpg)](https://youtu.be/tunqVkdez6I)
 *Status: 🚀 Live | [Watch on YouTube](https://youtu.be/tunqVkdez6I)*
-
----
 
 ## 📋 Hardware Configuration
 ### Main System Components
