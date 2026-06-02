@@ -12,11 +12,20 @@ This technical documentation covers the entire development of the Shutter Pi pro
 
 ## 📺 Shutter Pi — Video Series & Tutorials
 
-| Episode | Content Description | Status | Preview & Watch Link (Click Image) |
-| :---: | :--- | :---: | :--- |
-| **🎥 Part 1** | Build Your Own Raspberry Pi Camera! First Look | 🚀 Live | [![Part 1](https://img.youtube.com/vi/DRP7rBsVmwo/0.jpg)](https://youtu.be/DRP7rBsVmwo) <br> [👉 Watch on YouTube](https://youtu.be/DRP7rBsVmwo) |
-| **🔧 Part 2** | Raspberry Pi Camera Build – Hardware Assembly | 🚀 Live | [![Part 2](https://img.youtube.com/vi/vsTkTUwmtEQ/0.jpg)](https://youtu.be/vsTkTUwmtEQ) <br> [👉 Watch on YouTube](https://youtu.be/vsTkTUwmtEQ) |
-| **💻 Part 3** | Raspberry Pi Camera – App Setup & Field test | 🚀 Live | [![Part 3](https://img.youtube.com/vi/tunqVkdez6I/0.jpg)](https://youtu.be/tunqVkdez6I) <br> [👉 Watch on YouTube](https://youtu.be/tunqVkdez6I) |
+### 🎥 Part 1: Build Your Own Raspberry Pi Camera! First Look
+[![Part 1](https://img.youtube.com/vi/DRP7rBsVmwo/0.jpg)](https://youtu.be/DRP7rBsVmwo)
+*Status: 🚀 Live | [Watch on YouTube](https://youtu.be/DRP7rBsVmwo)*
+---
+
+### 🔧 Part 2: Raspberry Pi Camera Build – Hardware Assembly
+[![Part 2](https://img.youtube.com/vi/vsTkTUwmtEQ/0.jpg)](https://youtu.be/vsTkTUwmtEQ)
+*Status: 🚀 Live | [Watch on YouTube](https://youtu.be/vsTkTUwmtEQ)*
+
+---
+
+### 💻 Part 3: Raspberry Pi Camera – App Setup & Field test
+[![Part 3](https://img.youtube.com/vi/tunqVkdez6I/0.jpg)](https://youtu.be/tunqVkdez6I)
+*Status: 🚀 Live | [Watch on YouTube](https://youtu.be/tunqVkdez6I)*
 
 ---
 
